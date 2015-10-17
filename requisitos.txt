@@ -1,0 +1,7 @@
+Language: Java 8 J2E, JavaFx
+Integrated development environment: IntelliJ
+Database: MySQL
+Web technology: Web Service REST
+Web Server: Tomcat
+Version control system: GIT
+Concept: Software Factory (Maven, Hudson), DevOps 
